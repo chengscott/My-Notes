@@ -1,10 +1,10 @@
 # Course Notes
 
-- [Calculus (I)](#Calculus%20(I))
-- [Calculus (II)](#Calculus%20(II))
-- [Linear Algebra (I)](#Linear%20Algebra%20(I))
-- [Linear Algebra (II)](#Linear%20Algebra%20(II))
-- [Probability Theory](#Probability%20Theory)
+- [Calculus (I)](#calculus-i)
+- [Calculus (II)](#calculus-ii)
+- [Linear Algebra (I)](#linear-algebra-i)
+- [Linear Algebra (II)](#linear-algebra-ii)
+- [Probability Theory](#probability-theory)
 
 ## Calculus (I)
 
